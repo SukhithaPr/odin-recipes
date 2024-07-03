@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Margarine&family=Playwrite+US+Modern:wght@100..400&display=swap');
+
+h1 {
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Margarine", sans-serif;
+}
+
+a {
+    display: flex;
+    color: black;
+    text-decoration: none;
+}
+
+li,
+p {
+    font-family: "Playwrite US Modern", cursive;
+    font-size: 1.3rem;
+}
